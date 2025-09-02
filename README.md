@@ -1,2 +1,2 @@
 # School
-Mirror of projects from https://github.com/IACS-CS by u/thinkle
+Mirror of my projects forked from https://github.com/IACS-CS by u/thinkle
